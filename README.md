@@ -1,4 +1,3 @@
-# Placement-buddy
 # Placement Buddy
 
 Placement Buddy is a platform designed to improve communication between the **Training & Placement Office (TPO)** and **students**, while enabling students to learn from **alumni and professors with industry experience**.
