@@ -2,7 +2,7 @@ import DashboardLayout from "../../components/layout/DashboardLayout";
 
 const TPODashboard = () => {
   return (
-    <DashboardLayout>
+    <DashboardLayout role="tpo">
 
       <h1>TPO Dashboard</h1>
 

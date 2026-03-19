@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import AuthPage from "../pages/Auth/AuthPage";
 import StudentDashboard from "../pages/Student/StudentDashboard";
 import TPODashboard from "../pages/TPO/TPODashboard";

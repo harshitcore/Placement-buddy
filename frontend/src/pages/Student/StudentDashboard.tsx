@@ -5,7 +5,7 @@ import CompanyOpportunities from "../../components/dashboard/CompanyOpportunitie
 const StudentDashboard = () => {
   return (
 
-    <DashboardLayout>
+    <DashboardLayout role="student">
 
       <h1>Student Dashboard</h1>
 
