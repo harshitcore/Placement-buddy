@@ -1,0 +1,22 @@
+{
+  "name": "Placement Buddy",
+  "category": "Educational Technology",
+  "stack": ["TypeScript", "React", "Node.js", "MongoDB", "AI/ML"],
+  "description": "AI powered placement helping hand for students and training & placement team to stay updated on the placement updates.",
+  "problem": "Students and placement teams lack a centralized platform to track placement progress, receive AI-driven guidance, and stay updated on opportunities.",
+  "solution": "Create an AI-powered platform that helps students navigate the placement process and enables training teams to manage placements efficiently.",
+  "features": [
+    "AI-powered placement guidance and recommendations",
+    "Real-time placement updates and notifications",
+    "Student profile and opportunity matching",
+    "Training & placement team dashboard",
+    "Interview preparation resources",
+    "Company database with placement statistics",
+    "Progress tracking and analytics"
+  ],
+  "challenges": [
+    "Placeholder: Add technical challenges faced during development"
+  ],
+  "liveUrl": "https://github.com/harshitcore/Placement-buddy",
+  "architectureDiagram": ""
+}
